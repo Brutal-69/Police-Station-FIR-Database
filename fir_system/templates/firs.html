@@ -1,0 +1,59 @@
+{% extends 'base.html' %}
+{% block title %}FIR Records{% endblock %}
+{% block content %}
+<div class="page-header">
+    <h1>FIR <span>RECORDS</span></h1>
+    <a href="/fir/new" class="btn btn-primary">+ File New FIR</a>
+</div>
+
+<form method="GET" action="/firs">
+    <div class="filter-bar">
+        <input type="text" name="search" placeholder="Search FIR no. or complainant..." value="{{ search }}" style="flex:1;">
+        <select name="status">
+            <option value="">All Statuses</option>
+            <option value="Open" {% if status_filter=='Open' %}selected{% endif %}>Open</option>
+            <option value="Under Investigation" {% if status_filter=='Under Investigation' %}selected{% endif %}>Under Investigation</option>
+            <option value="Closed" {% if status_filter=='Closed' %}selected{% endif %}>Closed</option>
+            <option value="Dismissed" {% if status_filter=='Dismissed' %}selected{% endif %}>Dismissed</option>
+        </select>
+        <button type="submit" class="btn btn-outline">Filter</button>
+        <a href="/firs" class="btn btn-outline">Reset</a>
+    </div>
+</form>
+
+<div class="card">
+    <table>
+        <thead>
+            <tr>
+                <th>FIR No.</th>
+                <th>Complainant</th>
+                <th>Officer</th>
+                <th>Station</th>
+                <th>Date Filed</th>
+                <th>Status</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for f in firs %}
+            <tr>
+                <td style="font-family:var(--mono); color:var(--accent);">{{ f.fir_number }}</td>
+                <td>{{ f.complainant }}</td>
+                <td style="color:var(--text-dim);">{{ f.officer }}</td>
+                <td style="color:var(--text-dim); font-size:0.85rem;">{{ f.station }}</td>
+                <td style="font-family:var(--mono); font-size:0.83rem;">{{ f.date_filed }}</td>
+                <td>
+                    {% if f.status == 'Open' %}<span class="badge badge-open">Open</span>
+                    {% elif f.status == 'Under Investigation' %}<span class="badge badge-investigating">Investigating</span>
+                    {% elif f.status == 'Closed' %}<span class="badge badge-closed">Closed</span>
+                    {% else %}<span class="badge badge-dismissed">Dismissed</span>{% endif %}
+                </td>
+                <td><a href="/fir/{{ f.fir_id }}" class="btn btn-outline btn-sm">View</a></td>
+            </tr>
+            {% else %}
+            <tr><td colspan="7" style="color:var(--text-dim); text-align:center; padding:2rem;">No FIRs found.</td></tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endblock %}

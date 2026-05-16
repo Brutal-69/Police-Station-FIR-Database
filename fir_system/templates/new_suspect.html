@@ -1,0 +1,48 @@
+{% extends 'base.html' %}
+{% block title %}Add Suspect{% endblock %}
+{% block content %}
+<div class="page-header">
+    <h1>ADD <span>SUSPECT</span></h1>
+    <a href="/suspects" class="btn btn-outline">← Back</a>
+</div>
+<form method="POST" action="/suspect/new">
+    <div class="card">
+        <div class="form-grid">
+            <div class="form-group">
+                <label>Full Name</label>
+                <input type="text" name="name" required>
+            </div>
+            <div class="form-group">
+                <label>CNIC</label>
+                <input type="text" name="cnic" placeholder="17301-1234567-1">
+            </div>
+            <div class="form-group">
+                <label>Address</label>
+                <input type="text" name="address">
+            </div>
+            <div class="form-group">
+                <label>Status</label>
+                <select name="status">
+                    <option value="At Large">At Large</option>
+                    <option value="Arrested">Arrested</option>
+                    <option value="Released">Released</option>
+                    <option value="Convicted">Convicted</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label>Link to FIR</label>
+                <select name="fir_id" required>
+                    <option value="">-- Select FIR --</option>
+                    {% for f in firs %}
+                    <option value="{{ f.fir_id }}">{{ f.fir_number }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+        </div>
+        <div style="margin-top:1.5rem; display:flex; gap:0.75rem;">
+            <button type="submit" class="btn btn-primary">Add Suspect</button>
+            <a href="/suspects" class="btn btn-outline">Cancel</a>
+        </div>
+    </div>
+</form>
+{% endblock %}

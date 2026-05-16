@@ -1,0 +1,68 @@
+{% extends 'base.html' %}
+{% block title %}Dashboard — FIR System{% endblock %}
+{% block content %}
+<div class="page-header">
+    <div>
+        <h1>CASE <span>DASHBOARD</span></h1>
+        <p style="color:var(--text-dim); font-family:var(--mono); font-size:0.78rem; margin-top:0.25rem;">Police FIR Management System</p>
+    </div>
+    <a href="/fir/new" class="btn btn-primary">+ File New FIR</a>
+</div>
+
+<div class="stats-grid">
+    <div class="stat-card">
+        <div class="stat-label">Total FIRs</div>
+        <div class="stat-value">{{ total }}</div>
+    </div>
+    <div class="stat-card red">
+        <div class="stat-label">Open</div>
+        <div class="stat-value">{{ open_firs }}</div>
+    </div>
+    <div class="stat-card blue">
+        <div class="stat-label">Investigating</div>
+        <div class="stat-value">{{ investigating }}</div>
+    </div>
+    <div class="stat-card green">
+        <div class="stat-label">Closed</div>
+        <div class="stat-value">{{ closed }}</div>
+    </div>
+</div>
+
+<div class="card">
+    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:1rem;">
+        <div class="section-title" style="margin:0; border:none;">Recent FIRs</div>
+        <a href="/firs" class="btn btn-outline btn-sm">View All</a>
+    </div>
+    <table>
+        <thead>
+            <tr>
+                <th>FIR No.</th>
+                <th>Complainant</th>
+                <th>Officer</th>
+                <th>Date Filed</th>
+                <th>Status</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for f in recent %}
+            <tr>
+                <td style="font-family:var(--mono); color:var(--accent);">{{ f.fir_number }}</td>
+                <td>{{ f.complainant }}</td>
+                <td style="color:var(--text-dim);">{{ f.officer }}</td>
+                <td style="font-family:var(--mono); font-size:0.83rem;">{{ f.date_filed }}</td>
+                <td>
+                    {% if f.status == 'Open' %}<span class="badge badge-open">Open</span>
+                    {% elif f.status == 'Under Investigation' %}<span class="badge badge-investigating">Investigating</span>
+                    {% elif f.status == 'Closed' %}<span class="badge badge-closed">Closed</span>
+                    {% else %}<span class="badge badge-dismissed">Dismissed</span>{% endif %}
+                </td>
+                <td><a href="/fir/{{ f.fir_id }}" class="btn btn-outline btn-sm">View</a></td>
+            </tr>
+            {% else %}
+            <tr><td colspan="6" style="color:var(--text-dim); text-align:center; padding:2rem;">No FIRs filed yet.</td></tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endblock %}
