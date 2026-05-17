@@ -1,0 +1,101 @@
+fir_id,fir_number,date_filed,description,status,complainant_id,officer_id,station_id
+1,FIR-2023-001,2023-11-24,House burglary during nighttime. Cash and jewelry stolen.,Under Investigation,2,2,2
+2,FIR-2024-002,2024-04-22,Physical assault by neighbors over property dispute.,Under Investigation,3,3,3
+3,FIR-2022-003,2022-01-29,Mobile phone snatching at gunpoint near Qissa Khwani.,Open,4,4,4
+4,FIR-2023-004,2023-01-17,Fraud complaint against shopkeeper selling counterfeit goods.,Closed,5,5,5
+5,FIR-2024-005,2024-07-24,Land grabbing complaint against local influential persons.,Open,6,6,1
+6,FIR-2022-006,2022-04-19,Domestic violence complaint filed by wife against husband.,Closed,7,7,2
+7,FIR-2023-007,2023-10-18,Armed robbery at local shop. Suspects fled on motorcycle.,Closed,8,8,3
+8,FIR-2024-008,2024-06-10,Cheque bounce fraud complaint against business partner.,Open,9,9,4
+9,FIR-2022-009,2022-09-13,Car theft from parking area near Saddar.,Under Investigation,10,10,5
+10,FIR-2023-010,2023-11-26,Illegal weapon possession complaint against neighbor.,Under Investigation,11,11,1
+11,FIR-2024-011,2024-05-15,Cybercrime — fake social media account created to defame.,Open,12,12,2
+12,FIR-2022-012,2022-10-15,Missing person report filed by family.,Under Investigation,13,13,3
+13,FIR-2023-013,2023-10-27,Drug trafficking near school reported by local residents.,Under Investigation,14,14,4
+14,FIR-2024-014,2024-10-25,Extortion calls received by local businessman.,Under Investigation,15,15,5
+15,FIR-2022-015,2022-04-23,Road accident — reckless driving causing serious injury.,Dismissed,16,16,1
+16,FIR-2023-016,2023-03-12,Electricity theft complaint against commercial establishment.,Under Investigation,17,17,2
+17,FIR-2024-017,2024-02-16,Harassment complaint filed against former employee.,Closed,18,18,3
+18,FIR-2022-018,2022-02-26,Kidnapping for ransom — victim recovered safely.,Open,19,19,4
+19,FIR-2023-019,2023-03-23,Illegal construction blocking public pathway.,Closed,20,20,5
+20,FIR-2024-020,2024-08-04,Motorcycle theft reported outside complainant's residence.,Under Investigation,21,21,1
+21,FIR-2022-021,2022-07-17,House burglary during nighttime. Cash and jewelry stolen.,Under Investigation,22,22,2
+22,FIR-2023-022,2023-08-28,Physical assault by neighbors over property dispute.,Under Investigation,23,23,3
+23,FIR-2024-023,2024-10-10,Mobile phone snatching at gunpoint near Qissa Khwani.,Closed,24,24,4
+24,FIR-2022-024,2022-01-06,Fraud complaint against shopkeeper selling counterfeit goods.,Under Investigation,25,25,5
+25,FIR-2023-025,2023-02-28,Land grabbing complaint against local influential persons.,Under Investigation,26,26,1
+26,FIR-2024-026,2024-10-01,Domestic violence complaint filed by wife against husband.,Closed,27,27,2
+27,FIR-2022-027,2022-11-25,Armed robbery at local shop. Suspects fled on motorcycle.,Under Investigation,28,28,3
+28,FIR-2023-028,2023-05-31,Cheque bounce fraud complaint against business partner.,Under Investigation,29,29,4
+29,FIR-2024-029,2024-08-20,Car theft from parking area near Saddar.,Open,30,30,5
+30,FIR-2022-030,2022-05-15,Illegal weapon possession complaint against neighbor.,Dismissed,31,31,1
+31,FIR-2023-031,2023-04-02,Cybercrime — fake social media account created to defame.,Under Investigation,32,32,2
+32,FIR-2024-032,2024-02-24,Missing person report filed by family.,Closed,33,33,3
+33,FIR-2022-033,2022-06-02,Drug trafficking near school reported by local residents.,Closed,34,34,4
+34,FIR-2023-034,2023-09-17,Extortion calls received by local businessman.,Under Investigation,35,35,5
+35,FIR-2024-035,2024-03-19,Road accident — reckless driving causing serious injury.,Under Investigation,36,36,1
+36,FIR-2022-036,2022-03-24,Electricity theft complaint against commercial establishment.,Under Investigation,37,37,2
+37,FIR-2023-037,2023-09-29,Harassment complaint filed against former employee.,Closed,38,38,3
+38,FIR-2024-038,2024-11-02,Kidnapping for ransom — victim recovered safely.,Under Investigation,39,39,4
+39,FIR-2022-039,2022-01-10,Illegal construction blocking public pathway.,Open,40,40,5
+40,FIR-2023-040,2023-07-05,Motorcycle theft reported outside complainant's residence.,Closed,41,41,1
+41,FIR-2024-041,2024-06-06,House burglary during nighttime. Cash and jewelry stolen.,Open,42,42,2
+42,FIR-2022-042,2022-05-04,Physical assault by neighbors over property dispute.,Closed,43,43,3
+43,FIR-2023-043,2023-02-10,Mobile phone snatching at gunpoint near Qissa Khwani.,Open,44,44,4
+44,FIR-2024-044,2024-09-05,Fraud complaint against shopkeeper selling counterfeit goods.,Closed,45,45,5
+45,FIR-2022-045,2022-09-30,Land grabbing complaint against local influential persons.,Closed,46,46,1
+46,FIR-2023-046,2023-03-07,Domestic violence complaint filed by wife against husband.,Under Investigation,47,47,2
+47,FIR-2024-047,2024-10-08,Armed robbery at local shop. Suspects fled on motorcycle.,Open,48,48,3
+48,FIR-2022-048,2022-09-28,Cheque bounce fraud complaint against business partner.,Closed,49,49,4
+49,FIR-2023-049,2023-08-05,Car theft from parking area near Saddar.,Dismissed,50,50,5
+50,FIR-2024-050,2024-10-03,Illegal weapon possession complaint against neighbor.,Closed,51,51,1
+51,FIR-2022-051,2022-12-20,Cybercrime — fake social media account created to defame.,Open,52,52,2
+52,FIR-2023-052,2023-06-09,Missing person report filed by family.,Under Investigation,53,53,3
+53,FIR-2024-053,2024-12-09,Drug trafficking near school reported by local residents.,Under Investigation,54,54,4
+54,FIR-2022-054,2022-08-13,Extortion calls received by local businessman.,Closed,55,55,5
+55,FIR-2023-055,2023-08-20,Road accident — reckless driving causing serious injury.,Open,56,56,1
+56,FIR-2024-056,2024-04-25,Electricity theft complaint against commercial establishment.,Open,57,57,2
+57,FIR-2022-057,2022-01-11,Harassment complaint filed against former employee.,Under Investigation,58,58,3
+58,FIR-2023-058,2023-04-28,Kidnapping for ransom — victim recovered safely.,Under Investigation,59,59,4
+59,FIR-2024-059,2024-01-04,Illegal construction blocking public pathway.,Open,60,60,5
+60,FIR-2022-060,2022-11-20,Motorcycle theft reported outside complainant's residence.,Open,61,1,1
+61,FIR-2023-061,2023-02-04,House burglary during nighttime. Cash and jewelry stolen.,Closed,62,2,2
+62,FIR-2024-062,2024-06-18,Physical assault by neighbors over property dispute.,Open,63,3,3
+63,FIR-2022-063,2022-05-02,Mobile phone snatching at gunpoint near Qissa Khwani.,Open,64,4,4
+64,FIR-2023-064,2023-09-06,Fraud complaint against shopkeeper selling counterfeit goods.,Open,65,5,5
+65,FIR-2024-065,2024-03-08,Land grabbing complaint against local influential persons.,Closed,66,6,1
+66,FIR-2022-066,2022-10-20,Domestic violence complaint filed by wife against husband.,Under Investigation,67,7,2
+67,FIR-2023-067,2023-05-05,Armed robbery at local shop. Suspects fled on motorcycle.,Closed,68,8,3
+68,FIR-2024-068,2024-07-27,Cheque bounce fraud complaint against business partner.,Open,69,9,4
+69,FIR-2022-069,2022-02-19,Car theft from parking area near Saddar.,Under Investigation,70,10,5
+70,FIR-2023-070,2023-07-01,Illegal weapon possession complaint against neighbor.,Under Investigation,71,11,1
+71,FIR-2024-071,2024-08-27,Cybercrime — fake social media account created to defame.,Closed,72,12,2
+72,FIR-2022-072,2022-01-28,Missing person report filed by family.,Under Investigation,73,13,3
+73,FIR-2023-073,2023-11-27,Drug trafficking near school reported by local residents.,Open,74,14,4
+74,FIR-2024-074,2024-07-25,Extortion calls received by local businessman.,Closed,75,15,5
+75,FIR-2022-075,2022-02-25,Road accident — reckless driving causing serious injury.,Open,76,16,1
+76,FIR-2023-076,2023-04-08,Electricity theft complaint against commercial establishment.,Under Investigation,77,17,2
+77,FIR-2024-077,2024-03-12,Harassment complaint filed against former employee.,Under Investigation,78,18,3
+78,FIR-2022-078,2022-05-23,Kidnapping for ransom — victim recovered safely.,Under Investigation,79,19,4
+79,FIR-2023-079,2023-02-08,Illegal construction blocking public pathway.,Under Investigation,80,20,5
+80,FIR-2024-080,2024-10-08,Motorcycle theft reported outside complainant's residence.,Open,81,21,1
+81,FIR-2022-081,2022-11-30,House burglary during nighttime. Cash and jewelry stolen.,Dismissed,82,22,2
+82,FIR-2023-082,2023-01-08,Physical assault by neighbors over property dispute.,Dismissed,83,23,3
+83,FIR-2024-083,2024-05-01,Mobile phone snatching at gunpoint near Qissa Khwani.,Open,84,24,4
+84,FIR-2022-084,2022-09-06,Fraud complaint against shopkeeper selling counterfeit goods.,Under Investigation,85,25,5
+85,FIR-2023-085,2023-07-25,Land grabbing complaint against local influential persons.,Closed,86,26,1
+86,FIR-2024-086,2024-03-25,Domestic violence complaint filed by wife against husband.,Under Investigation,87,27,2
+87,FIR-2022-087,2022-07-19,Armed robbery at local shop. Suspects fled on motorcycle.,Open,88,28,3
+88,FIR-2023-088,2023-08-21,Cheque bounce fraud complaint against business partner.,Open,89,29,4
+89,FIR-2024-089,2024-12-22,Car theft from parking area near Saddar.,Dismissed,90,30,5
+90,FIR-2022-090,2022-10-12,Illegal weapon possession complaint against neighbor.,Under Investigation,91,31,1
+91,FIR-2023-091,2023-09-07,Cybercrime — fake social media account created to defame.,Open,92,32,2
+92,FIR-2024-092,2024-05-31,Missing person report filed by family.,Open,93,33,3
+93,FIR-2022-093,2022-01-30,Drug trafficking near school reported by local residents.,Under Investigation,94,34,4
+94,FIR-2023-094,2023-10-05,Extortion calls received by local businessman.,Open,95,35,5
+95,FIR-2024-095,2024-06-09,Road accident — reckless driving causing serious injury.,Open,96,36,1
+96,FIR-2022-096,2022-10-27,Electricity theft complaint against commercial establishment.,Under Investigation,97,37,2
+97,FIR-2023-097,2023-09-29,Harassment complaint filed against former employee.,Open,98,38,3
+98,FIR-2024-098,2024-09-17,Kidnapping for ransom — victim recovered safely.,Open,99,39,4
+99,FIR-2022-099,2022-04-06,Illegal construction blocking public pathway.,Open,100,40,5
+100,FIR-2023-100,2023-02-04,Motorcycle theft reported outside complainant's residence.,Under Investigation,1,41,1

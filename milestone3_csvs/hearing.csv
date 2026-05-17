@@ -1,0 +1,71 @@
+hearing_id,fir_id,hearing_date,court_name,outcome
+1,2,2023-08-05,Judicial Magistrate Court Peshawar,Bail granted to suspect
+2,4,2024-11-21,Anti-Terrorism Court Peshawar,Bail rejected
+3,6,2023-11-18,District Court Peshawar,Challan submitted to court
+4,7,2022-07-11,High Court Peshawar,Witness examined
+5,9,2023-04-27,Civil Judge Court Peshawar,Case transferred
+6,10,2023-09-28,Sessions Court Peshawar,Acquittal granted
+7,12,2023-04-06,Judicial Magistrate Court Peshawar,Conviction recorded
+8,13,2023-02-12,Anti-Terrorism Court Peshawar,Further investigation ordered
+9,14,2022-10-29,District Court Peshawar,
+10,15,2022-02-20,High Court Peshawar,
+11,16,2022-04-05,Civil Judge Court Peshawar,
+12,17,2023-05-17,Sessions Court Peshawar,Adjourned to next date
+13,19,2024-08-31,Judicial Magistrate Court Peshawar,Bail granted to suspect
+14,20,2022-05-30,Anti-Terrorism Court Peshawar,Bail rejected
+15,21,2024-07-21,District Court Peshawar,Challan submitted to court
+16,22,2024-04-28,High Court Peshawar,Witness examined
+17,23,2023-02-03,Civil Judge Court Peshawar,Case transferred
+18,24,2024-02-26,Sessions Court Peshawar,Acquittal granted
+19,25,2024-10-09,Judicial Magistrate Court Peshawar,Conviction recorded
+20,26,2024-03-29,Anti-Terrorism Court Peshawar,Further investigation ordered
+21,27,2023-05-15,District Court Peshawar,
+22,28,2022-10-30,High Court Peshawar,
+23,30,2022-01-12,Civil Judge Court Peshawar,
+24,31,2022-08-07,Sessions Court Peshawar,Adjourned to next date
+25,32,2024-05-20,Judicial Magistrate Court Peshawar,Bail granted to suspect
+26,33,2023-03-25,Anti-Terrorism Court Peshawar,Bail rejected
+27,34,2022-12-27,District Court Peshawar,Challan submitted to court
+28,35,2024-11-26,High Court Peshawar,Witness examined
+29,36,2024-08-09,Civil Judge Court Peshawar,Case transferred
+30,37,2022-04-13,Sessions Court Peshawar,Acquittal granted
+31,38,2023-05-26,Judicial Magistrate Court Peshawar,Conviction recorded
+32,40,2022-09-06,Anti-Terrorism Court Peshawar,Further investigation ordered
+33,42,2024-07-23,District Court Peshawar,
+34,44,2022-10-01,High Court Peshawar,
+35,45,2024-08-09,Civil Judge Court Peshawar,
+36,46,2024-12-23,Sessions Court Peshawar,Adjourned to next date
+37,48,2023-10-12,Judicial Magistrate Court Peshawar,Bail granted to suspect
+38,49,2024-06-25,Anti-Terrorism Court Peshawar,Bail rejected
+39,50,2024-10-30,District Court Peshawar,Challan submitted to court
+40,52,2024-05-23,High Court Peshawar,Witness examined
+41,53,2024-07-02,Civil Judge Court Peshawar,Case transferred
+42,54,2022-11-22,Sessions Court Peshawar,Acquittal granted
+43,57,2024-08-30,Judicial Magistrate Court Peshawar,Conviction recorded
+44,58,2024-07-10,Anti-Terrorism Court Peshawar,Further investigation ordered
+45,61,2023-06-15,District Court Peshawar,
+46,65,2023-05-22,High Court Peshawar,
+47,66,2023-07-22,Civil Judge Court Peshawar,
+48,67,2024-12-03,Sessions Court Peshawar,Adjourned to next date
+49,69,2024-09-19,Judicial Magistrate Court Peshawar,Bail granted to suspect
+50,70,2023-05-05,Anti-Terrorism Court Peshawar,Bail rejected
+51,71,2023-07-17,District Court Peshawar,Challan submitted to court
+52,72,2024-06-19,High Court Peshawar,Witness examined
+53,74,2022-06-08,Civil Judge Court Peshawar,Case transferred
+54,76,2023-08-09,Sessions Court Peshawar,Acquittal granted
+55,77,2023-04-26,Judicial Magistrate Court Peshawar,Conviction recorded
+56,78,2023-07-11,Anti-Terrorism Court Peshawar,Further investigation ordered
+57,79,2023-11-19,District Court Peshawar,
+58,81,2023-10-17,High Court Peshawar,
+59,82,2022-06-15,Civil Judge Court Peshawar,
+60,84,2022-10-11,Sessions Court Peshawar,Adjourned to next date
+61,85,2022-11-05,Judicial Magistrate Court Peshawar,Bail granted to suspect
+62,86,2023-04-19,Anti-Terrorism Court Peshawar,Bail rejected
+63,89,2024-02-24,District Court Peshawar,Challan submitted to court
+64,90,2022-11-09,High Court Peshawar,Witness examined
+65,93,2023-03-15,Civil Judge Court Peshawar,Case transferred
+66,96,2022-05-12,Sessions Court Peshawar,Acquittal granted
+67,100,2024-04-29,Judicial Magistrate Court Peshawar,Conviction recorded
+68,1,2024-04-14,Anti-Terrorism Court Peshawar,Further investigation ordered
+69,2,2023-11-09,District Court Peshawar,
+70,4,2024-08-12,High Court Peshawar,

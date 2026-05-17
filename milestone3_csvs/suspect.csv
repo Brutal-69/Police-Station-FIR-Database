@@ -1,0 +1,81 @@
+suspect_id,name,cnic,address,status
+1,Khalid Chaudhry,17301-4967419-7,"House 18, Kohat Road, Peshawar",At Large
+2,Rashid Ahmed,17301-4975338-8,"House 35, Bara Road, Peshawar",At Large
+3,Imran Baig,17301-4983257-9,"House 52, GT Road Peshawar, Peshawar",Released
+4,Zubair Nawaz,17301-4991176-1,"House 69, Warsak Road, Peshawar",At Large
+5,Fawad Lodhi,17301-4999095-2,"House 86, Jamrud Road, Peshawar",Arrested
+6,Asad Khan,17301-5007014-3,"House 103, Charsadda Road, Peshawar",Arrested
+7,Bilal Gul,17301-5014933-4,"House 120, Pishtakhara, Peshawar",Arrested
+8,Naveed Raza,17301-5022852-5,"House 137, Badaber, Peshawar",Arrested
+9,Usman Gill,17301-5030771-6,"House 154, Chamkani, Peshawar",Arrested
+10,Adnan Mehmood,17301-5038690-7,"House 171, Sheikh Muhammadi, Peshawar",Convicted
+11,Hamid Yousaf,17301-5046609-8,"House 188, Tehkal Bala, Peshawar",At Large
+12,Sohail Ali,17301-5054528-9,"House 205, Nasir Bagh, Peshawar",Arrested
+13,Pervaiz Akhtar,17301-5062447-1,"House 222, Board Bazaar, Peshawar",At Large
+14,Waqar Malik,17301-5070366-2,"House 239, Firdous Bazaar, Peshawar",At Large
+15,Junaid Hussain,17301-5078285-3,"House 256, Qissa Khwani Bazaar, Peshawar",Arrested
+16,Sajid Anwar,17301-5086204-4,"House 273, Hayatabad Phase 4, Peshawar",At Large
+17,Kamran Saleem,17301-5094123-5,"House 290, University Town, Peshawar",At Large
+18,Faheem Siddiqui,17301-5102042-6,"House 8, Gulbahar Colony, Peshawar",Released
+19,Danish Ullah,17301-5109961-7,"House 25, Regi Model Town, Peshawar",At Large
+20,Arshad Qureshi,17301-5117880-8,"House 42, Dalazak Road, Peshawar",Arrested
+21,Rizwan Sultan,17301-5125799-9,"House 59, Kohat Road, Peshawar",Convicted
+22,Naeem Jan,17301-5133718-1,"House 76, Bara Road, Peshawar",Convicted
+23,Waseem Afridi,17301-5141637-2,"House 93, GT Road Peshawar, Peshawar",At Large
+24,Shahbaz Shah,17301-5149556-3,"House 110, Warsak Road, Peshawar",At Large
+25,Zahid Iqbal,17301-5157475-4,"House 127, Jamrud Road, Peshawar",At Large
+26,Murad Haider,17301-5165394-5,"House 144, Charsadda Road, Peshawar",Convicted
+27,Alamgir Bangash,17301-5173313-6,"House 161, Pishtakhara, Peshawar",Released
+28,Taimur Rehman,17301-5181232-7,"House 178, Badaber, Peshawar",Released
+29,Saifullah Khattak,17301-5189151-8,"House 195, Chamkani, Peshawar",At Large
+30,Ijaz Butt,17301-5197070-9,"House 212, Sheikh Muhammadi, Peshawar",At Large
+31,Noman Chaudhry,17301-5204989-1,"House 229, Tehkal Bala, Peshawar",Released
+32,Yasir Ahmed,17301-5212908-2,"House 246, Nasir Bagh, Peshawar",Arrested
+33,Aamir Baig,17301-5220827-3,"House 263, Board Bazaar, Peshawar",Arrested
+34,Shehzad Nawaz,17301-5228746-4,"House 280, Firdous Bazaar, Peshawar",Convicted
+35,Iftikhar Lodhi,17301-5236665-5,"House 297, Qissa Khwani Bazaar, Peshawar",Arrested
+36,Tahir Khan,17301-5244584-6,"House 15, Hayatabad Phase 4, Peshawar",At Large
+37,Nasir Gul,17301-5252503-7,"House 32, University Town, Peshawar",Released
+38,Zafar Raza,17301-5260422-8,"House 49, Gulbahar Colony, Peshawar",At Large
+39,Liaqat Gill,17301-5268341-9,"House 66, Regi Model Town, Peshawar",Arrested
+40,Tariq Mehmood,17301-5276260-1,"House 83, Dalazak Road, Peshawar",Convicted
+41,Khalid Yousaf,17301-5284179-2,"House 100, Kohat Road, Peshawar",At Large
+42,Rashid Ali,17301-5292098-3,"House 117, Bara Road, Peshawar",At Large
+43,Imran Akhtar,17301-5300017-4,"House 134, GT Road Peshawar, Peshawar",At Large
+44,Zubair Malik,17301-5307936-5,"House 151, Warsak Road, Peshawar",Arrested
+45,Fawad Hussain,17301-5315855-6,"House 168, Jamrud Road, Peshawar",At Large
+46,Asad Anwar,17301-5323774-7,"House 185, Charsadda Road, Peshawar",Arrested
+47,Bilal Saleem,17301-5331693-8,"House 202, Pishtakhara, Peshawar",Arrested
+48,Naveed Siddiqui,17301-5339612-9,"House 219, Badaber, Peshawar",At Large
+49,Usman Ullah,17301-5347531-1,"House 236, Chamkani, Peshawar",Arrested
+50,Adnan Qureshi,17301-5355450-2,"House 253, Sheikh Muhammadi, Peshawar",At Large
+51,Hamid Sultan,17301-5363369-3,"House 270, Tehkal Bala, Peshawar",Arrested
+52,Sohail Jan,17301-5371288-4,"House 287, Nasir Bagh, Peshawar",Convicted
+53,Pervaiz Afridi,17301-5379207-5,"House 5, Board Bazaar, Peshawar",Released
+54,Waqar Shah,17301-5387126-6,"House 22, Firdous Bazaar, Peshawar",At Large
+55,Junaid Iqbal,17301-5395045-7,"House 39, Qissa Khwani Bazaar, Peshawar",Arrested
+56,Sajid Haider,17301-5402964-8,"House 56, Hayatabad Phase 4, Peshawar",At Large
+57,Kamran Bangash,17301-5410883-9,"House 73, University Town, Peshawar",At Large
+58,Faheem Rehman,17301-5418802-1,"House 90, Gulbahar Colony, Peshawar",Released
+59,Danish Khattak,17301-5426721-2,"House 107, Regi Model Town, Peshawar",Arrested
+60,Arshad Butt,17301-5434640-3,"House 124, Dalazak Road, Peshawar",At Large
+61,Rizwan Chaudhry,17301-5442559-4,"House 141, Kohat Road, Peshawar",Arrested
+62,Naeem Ahmed,17301-5450478-5,"House 158, Bara Road, Peshawar",Arrested
+63,Waseem Baig,17301-5458397-6,"House 175, GT Road Peshawar, Peshawar",Arrested
+64,Shahbaz Nawaz,17301-5466316-7,"House 192, Warsak Road, Peshawar",At Large
+65,Zahid Lodhi,17301-5474235-8,"House 209, Jamrud Road, Peshawar",At Large
+66,Murad Khan,17301-5482154-9,"House 226, Charsadda Road, Peshawar",Released
+67,Alamgir Gul,17301-5490073-1,"House 243, Pishtakhara, Peshawar",Convicted
+68,Taimur Raza,17301-5497992-2,"House 260, Badaber, Peshawar",Arrested
+69,Saifullah Gill,17301-5505911-3,"House 277, Chamkani, Peshawar",Released
+70,Ijaz Mehmood,17301-5513830-4,"House 294, Sheikh Muhammadi, Peshawar",Arrested
+71,Noman Yousaf,17301-5521749-5,"House 12, Tehkal Bala, Peshawar",At Large
+72,Yasir Ali,17301-5529668-6,"House 29, Nasir Bagh, Peshawar",At Large
+73,Aamir Akhtar,17301-5537587-7,"House 46, Board Bazaar, Peshawar",At Large
+74,Shehzad Malik,17301-5545506-8,"House 63, Firdous Bazaar, Peshawar",Released
+75,Iftikhar Hussain,17301-5553425-9,"House 80, Qissa Khwani Bazaar, Peshawar",Released
+76,Tahir Anwar,17301-5561344-1,"House 97, Hayatabad Phase 4, Peshawar",Released
+77,Nasir Saleem,17301-5569263-2,"House 114, University Town, Peshawar",Released
+78,Zafar Siddiqui,17301-5577182-3,"House 131, Gulbahar Colony, Peshawar",At Large
+79,Liaqat Ullah,17301-5585101-4,"House 148, Regi Model Town, Peshawar",At Large
+80,Tariq Qureshi,17301-5593020-5,"House 165, Dalazak Road, Peshawar",At Large

@@ -1,0 +1,91 @@
+evidence_id,fir_id,description,collected_date,collected_by
+1,2,Mobile phone recovered from suspect,2024-04-12,2
+2,3,Weapon (pistol) recovered from crime scene,2022-11-13,3
+3,4,Blood samples collected from scene,2023-04-30,4
+4,5,Witness statement recorded,2022-11-29,5
+5,6,Vehicle registration documents obtained,2022-12-29,6
+6,7,Financial transaction records retrieved,2024-04-24,7
+7,8,Photographs of crime scene taken,2022-02-20,8
+8,9,Fingerprints lifted from crime scene,2023-01-03,9
+9,10,Stolen items recovered from suspect,2023-11-12,10
+10,11,Call records obtained from telecom authority,2024-04-23,11
+11,12,Written threatening letter submitted as evidence,2023-05-24,12
+12,13,Medical report of injured victim,2023-07-01,13
+13,14,DNA sample collected and sent for analysis,2022-11-23,14
+14,15,Surveillance camera memory card seized,2022-08-10,15
+15,16,CCTV footage recovered from nearby shop,2024-02-23,16
+16,17,Mobile phone recovered from suspect,2022-03-21,17
+17,18,Weapon (pistol) recovered from crime scene,2024-08-21,18
+18,19,Blood samples collected from scene,2023-04-01,19
+19,20,Witness statement recorded,2023-02-13,20
+20,21,Vehicle registration documents obtained,2024-07-31,21
+21,22,Financial transaction records retrieved,2023-12-18,22
+22,23,Photographs of crime scene taken,2023-09-18,23
+23,24,Fingerprints lifted from crime scene,2023-04-12,24
+24,25,Stolen items recovered from suspect,2023-04-02,25
+25,26,Call records obtained from telecom authority,2022-02-18,26
+26,27,Written threatening letter submitted as evidence,2023-01-31,27
+27,28,Medical report of injured victim,2024-03-27,28
+28,29,DNA sample collected and sent for analysis,2023-11-04,29
+29,30,Surveillance camera memory card seized,2023-07-25,30
+30,31,CCTV footage recovered from nearby shop,2022-05-23,31
+31,32,Mobile phone recovered from suspect,2023-07-26,32
+32,33,Weapon (pistol) recovered from crime scene,2023-12-21,33
+33,34,Blood samples collected from scene,2024-11-09,34
+34,35,Witness statement recorded,2024-03-29,35
+35,36,Vehicle registration documents obtained,2023-11-10,36
+36,37,Financial transaction records retrieved,2022-02-26,37
+37,38,Photographs of crime scene taken,2022-08-25,38
+38,39,Fingerprints lifted from crime scene,2023-06-19,39
+39,40,Stolen items recovered from suspect,2023-01-01,40
+40,41,Call records obtained from telecom authority,2023-06-28,41
+41,42,Written threatening letter submitted as evidence,2022-03-20,42
+42,43,Medical report of injured victim,2022-08-11,43
+43,44,DNA sample collected and sent for analysis,2024-06-08,44
+44,45,Surveillance camera memory card seized,2023-12-09,45
+45,46,CCTV footage recovered from nearby shop,2023-10-05,46
+46,47,Mobile phone recovered from suspect,2024-06-12,47
+47,48,Weapon (pistol) recovered from crime scene,2024-11-13,48
+48,49,Blood samples collected from scene,2022-08-25,49
+49,50,Witness statement recorded,2024-02-28,50
+50,51,Vehicle registration documents obtained,2023-01-25,51
+51,52,Financial transaction records retrieved,2023-06-06,52
+52,53,Photographs of crime scene taken,2022-04-01,53
+53,54,Fingerprints lifted from crime scene,2024-06-12,54
+54,55,Stolen items recovered from suspect,2022-01-04,55
+55,56,Call records obtained from telecom authority,2024-11-30,56
+56,57,Written threatening letter submitted as evidence,2023-02-08,57
+57,58,Medical report of injured victim,2024-01-16,58
+58,59,DNA sample collected and sent for analysis,2024-06-02,59
+59,60,Surveillance camera memory card seized,2022-05-24,60
+60,61,CCTV footage recovered from nearby shop,2023-11-08,1
+61,62,Mobile phone recovered from suspect,2023-10-05,2
+62,63,Weapon (pistol) recovered from crime scene,2022-09-13,3
+63,64,Blood samples collected from scene,2023-09-08,4
+64,65,Witness statement recorded,2024-11-04,5
+65,66,Vehicle registration documents obtained,2023-09-26,6
+66,67,Financial transaction records retrieved,2024-04-16,7
+67,68,Photographs of crime scene taken,2023-10-31,8
+68,69,Fingerprints lifted from crime scene,2024-04-04,9
+69,70,Stolen items recovered from suspect,2023-08-29,10
+70,71,Call records obtained from telecom authority,2022-09-18,11
+71,72,Written threatening letter submitted as evidence,2023-01-28,12
+72,73,Medical report of injured victim,2024-05-11,13
+73,74,DNA sample collected and sent for analysis,2024-02-16,14
+74,75,Surveillance camera memory card seized,2022-12-23,15
+75,76,CCTV footage recovered from nearby shop,2023-09-09,16
+76,77,Mobile phone recovered from suspect,2024-04-11,17
+77,78,Weapon (pistol) recovered from crime scene,2022-01-01,18
+78,79,Blood samples collected from scene,2023-09-15,19
+79,80,Witness statement recorded,2023-08-11,20
+80,81,Vehicle registration documents obtained,2023-03-07,21
+81,82,Financial transaction records retrieved,2024-05-30,22
+82,83,Photographs of crime scene taken,2023-10-22,23
+83,84,Fingerprints lifted from crime scene,2024-08-10,24
+84,85,Stolen items recovered from suspect,2024-06-23,25
+85,86,Call records obtained from telecom authority,2024-06-24,26
+86,87,Written threatening letter submitted as evidence,2023-03-14,27
+87,88,Medical report of injured victim,2024-11-12,28
+88,89,DNA sample collected and sent for analysis,2024-08-27,29
+89,90,Surveillance camera memory card seized,2022-12-14,30
+90,91,CCTV footage recovered from nearby shop,2022-06-23,31
